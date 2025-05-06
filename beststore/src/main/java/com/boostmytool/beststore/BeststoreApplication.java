@@ -10,7 +10,7 @@ import com.boostmytool.beststore.repository.ProductsRepository;
 
 @SpringBootApplication
 public class BeststoreApplication {
-	//sample comment on main class
+	//add sample comment on my local 
 	@Autowired
 	private ProductsRepository repo;
 
