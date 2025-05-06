@@ -25,7 +25,7 @@ import com.boostmytool.beststore.model.ProductDto;
 import com.boostmytool.beststore.repository.ProductsRepository;
 
 import jakarta.validation.Valid;
-
+//Sample Comment
 @Controller
 @RequestMapping("/products")
 public class ProductsController {
